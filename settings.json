@@ -1,0 +1,25 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "afterDelay",
+    "workbench.startupEditor": "none",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "svelte.enable-ts-plugin": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.fontFamily": "Comic Mono",
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 15,
+    "editor.semanticTokenColorCustomizations": {
+    
+    },
+    "workbench.colorCustomizations": {
+        "[Default Dark+]": {
+            "editor.background": "#17202a",
+            "sideBar.background": "#1c2833",
+            "sideBarSectionHeader.background": "#212f3c",
+            "activityBar.background": "#212f3d",
+            "statusBar.background": "#212f3d",
+            "tab.inactiveBackground": "#1c2833",
+        }
+    }
+}
